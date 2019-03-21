@@ -5,5 +5,5 @@ The dataset comprises of two parts
 1) "Data Files" : This file consist of all the data we have for the project. Pearson's Coorelation is applied on this to select the best feature's of data.
 2) "LAbel Files" : This file is used for prediction of the class these labels belong to.
 
-you can find the sample dataset "Breast Cancer" in my repository.
+You can find the sample dataset "Breast Cancer" in my repository.
 
