@@ -1,6 +1,5 @@
 This project is about implementing the Person's Coorelation Feature-Selection method to select the best features from 
-the data we have and then using those featuer to predict the class of other data labels related to that data.
-
+the data we have and then using those feature to predict the class of other data labels related to that data.
 ## Dataset :
 The dataset comprises of two parts
 1) "Data Files" : This file consist of all the data we have for the project. Pearson's Coorelation is applied on this 
